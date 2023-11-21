@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-##################################################################################################
-                                                         #
+##################################################################################################                                                       
 #                                                                                                #
-# Look into additional functionalities. It is not programmed to cater   #
-# For learning purposesc/ personal protection only                     #
+# Look into additional functionalities. It is not programmed to cater                            #
+# For learning purposes only                                                                     #
 #                                                                                                #
-#                      #
+#                                                                                                #
 #                                                                                                #
 ##################################################################################################
 
